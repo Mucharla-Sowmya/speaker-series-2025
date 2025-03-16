@@ -28,6 +28,9 @@
 - "By the end of this session, our UI will *send user prompts to Flask and receive AI responses.*"
 
 ---
+
+# The Architectural Diagram
+
 ![Architecture Diagram | 100x100](./Documentation/Images/ArchitectureDiagram.jpg)
 
 

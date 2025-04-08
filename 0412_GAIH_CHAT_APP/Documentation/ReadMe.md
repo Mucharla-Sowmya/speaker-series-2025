@@ -7,9 +7,9 @@
 
 
 
-![Information | 100x100](./Documentation/Images/Information.PNG)
+![Information | 100x100](../Documentation/Images/Information.PNG)
 
-![Seat Belt | 100x100](./Documentation/Images/SeatBelt.PNG)
+![Seat Belt | 100x100](../Documentation/Images/SeatBelt.PNG)
 
 
 
@@ -30,7 +30,7 @@
 
 # The Architectural Diagram
 
-![Architecture Diagram | 100x100](./Documentation/Images/ArchitectureDiagram.jpg)
+![Architecture Diagram | 100x100](../Documentation/Images/ArchitectureDiagram.jpg)
 
 - "Notice the flow: React sends requests → Flask processes them → Flask responds back to React."
 

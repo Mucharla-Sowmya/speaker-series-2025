@@ -2,7 +2,8 @@
 
 ## Date Time: 12-Apr-2025 at 09:00 AM IST
 
-## Event URL: [https://www.meetup.com/global-ai-hyderabad/events/306095644](https://www.meetup.com/global-ai-hyderabad/events/306095644)
+## Event URL: [https://www.meetup.com/global-ai-hyderabad/events/306095644](https://www.meetup.com/global-ai-hyderabad/events/306095644/)
+
 
 
 
@@ -12,21 +13,18 @@
 
 
 
-## *🎯 Session Objective:*
+## *🎯 Session Objective:*  
 ✅ Understand and fix CORS errors for secure API communication.
 ✅ Seamlessly connect the React UI with the Flask backend.
 ✅ Master how React sends API requests to Flask for dynamic data exchange.
-  
 ---
 
 ## *📝 Demo Script:*
 
 ### *1️⃣ Introduction (1 min)*
-🟢"With Tejasree having developed the UI, it’s time to integrate it with our Flask API."
-
-🟢"In this session, we’ll focus on making smooth API calls from React to Flask and resolving CORS issues effectively."
-
-🟢"By the end, our UI will send user prompts to Flask and receive dynamic AI responses!"
+- "With Tejasree having developed the UI, it’s time to integrate it with our Flask API."
+- "In this session, we’ll focus on making smooth API calls from React to Flask and resolving CORS issues effectively."
+- "By the end, our UI will send user prompts to Flask and receive dynamic AI responses!"
 
 ---
 
@@ -37,10 +35,9 @@
 - "Notice the flow: React sends requests → Flask processes them → Flask responds back to React."
 
 
-### *2️⃣ Handling CORS Issues in Flask (3 min)*
-- "When you encounter CORS errors, it means the    browser is blocking requests from React to Flask due to cross-origin rules."
-
-- *Fixing CORS with Flask-CORS:*
+### *2️⃣ "Notice the flow: React sends requests → Flask processes them → Flask responds back to React."*
+- "When you encounter CORS errors, it means the browser is blocking requests from React to Flask due to cross-origin rules."
+- *Install Flask-CORS:*
   bash
   pip install flask-cors
   
@@ -52,7 +49,8 @@
   app = Flask(__name__)
   CORS(app)  # Enable CORS globally
   
-- "Restart Flask after this, and the UI should communicate without CORS issues!"nd the UI should work!"
+- "Restart Flask after this, and the UI should communicate without CORS issues!"
+
 
 ---
 ### **3️⃣ Setting Up API Calls in React (2 min)*
@@ -79,6 +77,7 @@
   };
   
 - "This keeps our API calls clean, organized, and easy to maintain."
+
 
 ---
 
@@ -127,14 +126,15 @@
   
 - "With this, the UI now interacts with the Flask backend and displays responses dynamically!"
 
+
 ---
 
 ### *5️⃣ Wrap-up & Next Steps (1 min)*
 - "We’ve successfully connected our React UI with Flask and handled CORS issues like pros!" 🎉
-- "Thanks for joining!"
+- "Thanks for participating!"
 
 ---
 
 ### 🔹 *Final Thoughts*
-- Tejasree’s session covered UI development fundamentals.  
-- Sowmya’s session focused on API integration, handling CORS, and making API calls modular.  
+- *Tejasree’s session covered UI development fundamentals.
+- *Sowmya’s session focused on API integration, handling CORS, and making API calls modular.  

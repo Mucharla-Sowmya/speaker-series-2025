@@ -5,17 +5,19 @@
 ## Event URL: [https://www.meetup.com/global-ai-hyderabad/events/306095644](https://www.meetup.com/global-ai-hyderabad/events/306095644/)
 
 
-![Event Banner | 100x100](../Documentation/Images/EventBanner.jpg)
 
 
-![M V P | 100x100](../Documentation/Images/MVP.jpg)
+![WhatsApp Image 2025-04-10 at 21 34 30_1cbdeb2b](https://github.com/user-attachments/assets/e4d49f31-d892-4506-9715-62fcb6200f18)
+
+
+![WhatsApp Image 2025-04-10 at 21 34 20_76850804](https://github.com/user-attachments/assets/e5a7ee67-94ba-4fc0-8438-0f7da5093842)
 
 
 
 
-![Information | 100x100](../Documentation/Images/Information.PNG)
+![Information](https://github.com/user-attachments/assets/122c9e59-d9a0-4096-8a11-9b5624eccf35)
 
-![Seat Belt | 100x100](../Documentation/Images/SeatBelt.PNG)
+![SeatBelt](https://github.com/user-attachments/assets/fd782a11-a255-4c8a-a9ed-cdd133437bf6)
 
 
 
@@ -39,7 +41,7 @@
 
 # The Architectural Diagram
 
-![Architecture Diagram | 100x100](../Documentation/Images/ArchitectureDiagram.jpg)
+![SystemArchitecture](https://github.com/user-attachments/assets/731f273c-590c-4c6b-a1b1-b965bf8a35e7)
 
 - "Notice the flow: React sends requests → Flask processes them → Flask responds back to React."
 
